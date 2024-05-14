@@ -1,0 +1,16 @@
+{activity}
+{accommodation_type}
+{experience_adjective}
+{food_adjective}
+{service_adjective}
+{enjoyment_verb}
+{emotion}
+{life_stage}
+{action}
+{recommendation_phrase}
+{jordanian_destinations}
+{commendable}
+{negative_qualities}
+{negative_words}
+{agency_name}
+{service}
